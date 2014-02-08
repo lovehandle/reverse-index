@@ -1,0 +1,22 @@
+{
+  "name": "reverse-index",
+  "description": "A module or generating a reverse index from a collection of objects",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rclosner/reverse-index.git"
+  },
+  "author": "Ryan Closner",
+  "main": "lib/builder.js",
+  "scripts": {},
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "text-tokenize": "0.0.x"
+  }
+}
